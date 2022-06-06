@@ -221,4 +221,4 @@ Project Link: [https://github.com/muhmuba/pimpleacnedetector](https://github.com
 [issues-url]: https://github.com/muhmuba/pimpleacnedetector/issues
 [license-shield]: https://img.shields.io/github/license/muhmuba/pimpleacnedetector.svg?style=for-the-badge
 [license-url]: https://github.com/muhmuba/pimpleacnedetector/blob/main/LICENSE.txt
-[product-screenshot]: images/screenshot.png -->
+[product-screenshot]: images/screenshot.png 
