@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/muhmuba/pimpleacnedetector">
-    <img src="Documentation/logo.png" alt="Logo" width="100" height="100">
+    <img src="Documentation/logo.png" alt="Logo" width="150" height="150">
   </a>
 
 <h3 align="center">Pimple Acne Detector App</h3>
@@ -38,14 +38,13 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/muhmuba/pimpleacnedetector"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/muhmuba/pimpleacnedetector">View Demo</a>
     ·
     <a href="https://github.com/muhmuba/pimpleacnedetector/issues">Report Bug</a>
     ·
     <a href="https://github.com/muhmuba/pimpleacnedetector/issues">Request Feature</a>
+    ·
+    <a href="https://documenter.getpostman.com/view/13172446/Uz5JHafg">Endpoint Documentation</a>
   </p>
 </div>
 
@@ -191,7 +190,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * Axelino Natanael Ndahawali [M2004F0218] - [user@mail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 * Diva Amwal Maulana Supian [A2291F2472] - [user@mail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 * Hafsah Miftachul Ilmiah Nur Islami [M2004F0224] - [user@mail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
-* Muhamad Mubarok [C2407G2974] - [moehamadmoebarok@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
+* Muhamad Mubarok [C2407G2974] - <a href="mailto:moehamadmoebarok@gmail.com">moehamadmoebarok@gmail.com</a>
 * Pandu Bagus Muhammad Daffa [C2399F2960] - [user@mail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 
 Project Link: [https://github.com/muhmuba/pimpleacnedetector](https://github.com/muhmuba/pimpleacnedetector)
