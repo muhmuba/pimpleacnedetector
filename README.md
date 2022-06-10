@@ -190,7 +190,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * Diva Amwal Maulana Supian [A2291F2472] - [user@mail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 * Hafsah Miftachul Ilmiah Nur Islami [M2004F0224] - [user@mail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 * Muhamad Mubarok [C2407G2974] - <a href="mailto:moehamadmoebarok@gmail.com">moehamadmoebarok@gmail.com</a>
-* Pandu Bagus Muhammad Daffa [C2399F2960] - [user@mail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
+* Pandu Bagus Muhammad Daffa [C2399F2960] - <a href="mailto:pandubagus1704@gmail.com">pandubagus1704@gmail.com</a>
 
 Project Link: [https://github.com/muhmuba/pimpleacnedetector](https://github.com/muhmuba/pimpleacnedetector)
 
