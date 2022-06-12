@@ -35,7 +35,7 @@
 <h3 align="center">Pimple Acne Detector App</h3>
 
   <p align="center">
-    project_description
+    PIMPAD (Pimple Acne Detector) is an app who can help u to recognize your acne in your face by scanning the photo on the app. So we made a machine learning who can match the object with the model we have and then will give the end user result.
     <br />
     <a href="https://github.com/muhmuba/pimpleacnedetector">View Demo</a>
     ·
@@ -66,8 +66,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -80,85 +78,42 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `muhmuba`, `pimpleacnedetector`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+As you can see in the Flow Chart that when you open the app u should input your photo, you can take a picture if you wanna scan ur face now or can be from gallery if u want to. Then, the app automatically will create new dataset and save the photo inside so the machine learning section can scan your photo by analyzing it. At the end you can see the result if ur face have an acne on or not.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-### Built With
-
+## Built With
+* [Android Studio Native](https://developer.android.com/studio)
+* [Kotlin](https://kotlinlang.org/docs/android-overview.html)
+* [Google Cloud Platform Services](https://cloud.google.com/gcp)
+* [Docker](https://www.docker.com)
 * [Laravel](https://laravel.com)
-* [Kotlin](https://developer.android.com/kotlin)
+* [Python](https://www.python.org/)
+* [Tensorflow](https://www.tensorflow.org)
+* [Keras](https://www.keras.io)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
+1. Android Lolipop (SDK 21)
+2. Internet Connection
+3. Enable Camera and Storage
+<!-- Installation -->
 ### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/muhmuba/pimpleacnedetector.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. Download The APK
+2. Install The APK
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/muhmuba/pimpleacnedetector/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
-
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
@@ -173,7 +128,6 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 <!-- LICENSE -->
 ## License
 
@@ -185,28 +139,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-* Athallah Naufal Fadhila Siregar [M2004F0220] - [user@mail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
-* Axelino Natanael Ndahawali [M2004F0218] - [user@mail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
-* Diva Amwal Maulana Supian [A2291F2472] - [user@mail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
-* Hafsah Miftachul Ilmiah Nur Islami [M2004F0224] - [user@mail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
+* Athallah Naufal Fadhila Siregar [M2004F0220] - <a href="mailto:athallahn01@gmail.com">athallahn01@gmail.com</a>
+* Axelino Natanael Ndahawali [M2004F0218] - <a href="mailto:azelnatan@gmail.com">azelnatan@gmail.com</a>
+* Diva Amwal Maulana Supian [A2291F2472] - <a href="mailto:athallahn01@gmail.com">athallahn01@gmail.com</a>
+* Hafsah Miftachul Ilmiah Nur Islami [M2004F0224] - <a href="mailto:hafsahmiftachul18@gmail.com">hafsahmiftachul18@gmail.com</a>
 * Muhamad Mubarok [C2407G2974] - <a href="mailto:moehamadmoebarok@gmail.com">moehamadmoebarok@gmail.com</a>
 * Pandu Bagus Muhammad Daffa [C2399F2960] - <a href="mailto:pandubagus1704@gmail.com">pandubagus1704@gmail.com</a>
 
 Project Link: [https://github.com/muhmuba/pimpleacnedetector](https://github.com/muhmuba/pimpleacnedetector)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- 
 <!-- MARKDOWN LINKS & IMAGES -->
