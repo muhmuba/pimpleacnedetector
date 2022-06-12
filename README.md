@@ -78,7 +78,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 
 As you can see in the Flow Chart that when you open the app u should input your photo, you can take a picture if you wanna scan ur face now or can be from gallery if u want to. Then, the app automatically will create new dataset and save the photo inside so the machine learning section can scan your photo by analyzing it. At the end you can see the result if ur face have an acne on or not.
 
