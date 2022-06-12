@@ -141,7 +141,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 * Athallah Naufal Fadhila Siregar [M2004F0220] - <a href="mailto:athallahn01@gmail.com">athallahn01@gmail.com</a>
 * Axelino Natanael Ndahawali [M2004F0218] - <a href="mailto:azelnatan@gmail.com">azelnatan@gmail.com</a>
-* Diva Amwal Maulana Supian [A2291F2472] - <a href="mailto:athallahn01@gmail.com">athallahn01@gmail.com</a>
+* Diva Amwal Maulana Supian [A2291F2472] - <a href="mailto:m.sdiva524@gmail.com">m.sdiva524@gmail.com</a>
 * Hafsah Miftachul Ilmiah Nur Islami [M2004F0224] - <a href="mailto:hafsahmiftachul18@gmail.com">hafsahmiftachul18@gmail.com</a>
 * Muhamad Mubarok [C2407G2974] - <a href="mailto:moehamadmoebarok@gmail.com">moehamadmoebarok@gmail.com</a>
 * Pandu Bagus Muhammad Daffa [C2399F2960] - <a href="mailto:pandubagus1704@gmail.com">pandubagus1704@gmail.com</a>
@@ -163,4 +163,4 @@ Project Link: [https://github.com/muhmuba/pimpleacnedetector](https://github.com
 [issues-url]: https://github.com/muhmuba/pimpleacnedetector/issues
 [license-shield]: https://img.shields.io/github/license/muhmuba/pimpleacnedetector.svg?style=for-the-badge
 [license-url]: https://github.com/muhmuba/pimpleacnedetector/blob/main/LICENSE.txt
-[product-screenshot]: images/screenshot.png 
+[product-screenshot]: Documentation/Images/Screenshot.png 
