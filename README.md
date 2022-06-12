@@ -98,8 +98,6 @@ As you can see in the Flow Chart that when you open the app u should input your 
 
 <!-- GETTING STARTED -->
 ## Getting Started
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 1. Android Lolipop (SDK 21)
