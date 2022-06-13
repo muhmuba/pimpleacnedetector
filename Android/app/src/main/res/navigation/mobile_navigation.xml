@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <activity
+        android:id="@+id/nav_splash_screen"
+        android:name="com.dicoding.diva.pimpledetectku.ui.splashScreen.SplashScreenActivity"
+        tools:layout="@layout/activity_splash_screen"/>
+
+    <activity
+        android:id="@+id/nav_welcome"
+        android:name="com.dicoding.diva.pimpledetectku.ui.welcome.WelcomeActivity"
+        tools:layout="@layout/activity_welcome"/>
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.dicoding.diva.pimpledetectku.ui.home.HomeFragment"
+        android:label="@string/menu_tutorial"
+        tools:layout="@layout/fragment_home" />
+
+    <activity
+        android:id="@+id/nav_home_activity"
+        android:name="com.dicoding.diva.pimpledetectku.ui.home.HomeActivity"
+        android:label="@string/menu_home"
+        tools:layout="@layout/activity_home" />
+
+    <activity
+        android:id="@id/nav_daftar_jerawat"
+        android:name="com.dicoding.diva.pimpledetectku.ui.daftarJerawat.DaftarJerawatActivity"
+        android:label="@string/menu_daftar"
+        tools:layout="@layout/activity_daftar_jerawat" />
+
+<!--    <activity-->
+<!--        android:id="@+id/nav_jenis_jerawat"-->
+<!--        android:label="@string/menu_jenis"-->
+<!--        android:name="com.dicoding.diva.pimpledetectku.ui.jenisJerawat.JenisJerawatActivity"-->
+<!--        tools:layout="@layout/activity_jenis_jerawat"/>-->
+
+<!--    <activity-->
+<!--        android:id="@+id/nav_solusi_jerawat"-->
+<!--        android:label="@string/menu_solusi"-->
+<!--        android:name="com.dicoding.diva.pimpledetectku.ui.solusiJerawat.SolusiJerawatActivity"-->
+<!--        tools:layout="@layout/activity_solusi_jerawat"/>-->
+
+    <activity
+        android:id="@+id/nav_about"
+        android:label="@string/menu_about"
+        android:name="com.dicoding.diva.pimpledetectku.ui.about.AboutActivity"
+        tools:layout="@layout/activity_about"/>
+
+</navigation>

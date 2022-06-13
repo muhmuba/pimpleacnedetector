@@ -1,0 +1,6 @@
+blackhead 
+nodules
+normal 
+papule
+pustules
+whitehead

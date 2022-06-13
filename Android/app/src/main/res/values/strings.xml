@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">PimpleDetectKu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Pimple Acne\nDetector</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="welcome">Selamat Datang</string>
+    <string name="introduce">Saya adalah robot Kecerdasan Buatan\nyang diciptakan untuk menganalisis\njerawat pada wajah anda. Saya bisa\nberpikir dan mempelajari jenis jerawat\nanda, tetapi saya masih dapat\nberkembang.\nSaya tidak menjamin akurasi hasil saya,\nsilahkan hubungi dokter untuk mendapat\nnasihat medis yang sebenarnya</string>
+    <string name="start">AYO MULAI!</string>
+    <string name="jenis_jerawat">Jenis Jerawat</string>
+    <string name="solusi_jerawat">Solusi Jerawat</string>
+    <string name="daftar_jerawat">Daftar Jerawat</string>
+    <string name="about_us">Tentang Kami</string>
+    <string name="info">Info</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cause">Penyebab :</string>
+    <string name="solution">Solusi :</string>
+    <string name="description">Deskripsi :</string>
+    <string name="title_detail">Jerawat %1$s,</string>
+    <string name="menu_jenis">Jenis Jerawat :</string>
+    <string name="menu_daftar">Daftar Jerawat</string>
+    <string name="menu_solusi">Solusi Jerawat</string>
+    <string name="menu_about">Tentang Kami</string>
+    <string name="menu_home">Home</string>
+    <string name="hasil">Hasil</string>
+    <string name="menu_tutorial">Tutorial</string>
+    <string name="title_app">Pimple Acne\nDetector</string>
+    <string name="preview_dialog">Ini adalah pratinjau gambar yang anda pilih</string>
+    <string name="preview_tv">Gambar yang anda pilih\nmelalui kamera/galeri akan\nmuncul pada pratinjau gambar ini</string>
+    <string name="galeri_tv">Ini adalah tombol untuk\nmengambil gambar pada galeri\nmilik anda</string>
+    <string name="camera_tv">Ini adalah tombol untuk\nmengambil gambar pada kamera\nmilik anda</string>
+    <string name="login_gagal">Kamu Gagal Login</string>
+    <string name="result_gagal">Result Gagal Ditampilkan</string>
+    <string name="salah_akun">Akun Kamu Salah</string>
+    <string name="detect_tv">Ini adalah tombol untuk\nmulai mendeteksi jerawat pada\ngambar wajah anda</string>
+    <string name="label_galeri">Galeri</string>
+    <string name="label_camera">Kamera</string>
+    <string name="label_detector">Deteksi</string>
+    <string name="keterangan_result">Keterangan :\nUntuk melihat solusi dari jerawat yang anda alami, kunjungi halaman Daftar Jerawat dibawah ini</string>
+</resources>

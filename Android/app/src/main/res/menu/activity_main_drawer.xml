@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_tutorial" />
+        <item
+            android:id="@+id/nav_home_activity"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_daftar_jerawat"
+            android:title="@string/daftar_jerawat"/>
+<!--        <item-->
+<!--            android:id="@+id/nav_jenis_jerawat"-->
+<!--            android:title="@string/jenis_jerawat"/>-->
+<!--        <item-->
+<!--            android:id="@+id/nav_solusi_jerawat"-->
+<!--            android:title="@string/solusi_jerawat"/>-->
+    </group>
+    <item android:title="@string/info">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_info"
+                android:title="@string/about_us" />
+        </menu>
+    </item>
+</menu>

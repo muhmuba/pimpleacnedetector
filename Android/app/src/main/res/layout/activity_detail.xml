@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.detail.DetailActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:transitionName="image"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="8dp"
+        tools:srcCompat="@tools:sample/avatars"/>
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/menu_jenis"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"/>
+
+    <TextView
+        android:id="@+id/name_tv"
+        android:transitionName="name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/name"
+        tools:text="Blackheads" />
+
+    <TextView
+        android:id="@+id/description"
+        android:transitionName="description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/description"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/name_tv"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"/>
+
+    <TextView
+        android:id="@+id/description_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:textSize="12sp"
+        android:lines="1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/description"
+        tools:text="Blackhead atau komedo hitam adalah tonjolan kecil berwarna gelap yang tumbuh di pori-pori kulit. Blackhead umumnya muncul di bagian wajah, tetapi bisa juga tumbuh di bagian tubuh lainnya, seperti punggung, dada, leher, bahu, dan tangan." />
+
+    <TextView
+        android:id="@+id/cause"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cause"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/description_tv"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"/>
+
+    <TextView
+        android:id="@+id/cause_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cause"
+        tools:text="Iritasi pada folikel rambut Produksi minyak yang berlebih Penumpukan bakteri Propionibacterium acnes di kulit Perubahan hormon, misalnya saat menstruasi atau akibat mengonsumsi pil KB atau obat-obatan tertentu" />
+
+    <TextView
+        android:id="@+id/solution"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/solution"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cause_tv"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"/>
+
+    <TextView
+        android:id="@+id/solution_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="8dp"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/solution"
+        tools:text="Gunakan produk yang mengandung asam salisilat, Gunakan krim dan losion retinoid, Lakukan chemical peeling, Jalani terapi laser" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

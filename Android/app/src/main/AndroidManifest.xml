@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dicoding.diva.pimpledetectku">
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PimpleDetectKu">
+        <activity
+            android:name=".ui.hasil.HasilActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.detail.DetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.daftarJerawat.DaftarJerawatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.home.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.camera.CameraActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.about.AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.solusiJerawat.SolusiJerawatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.jenisJerawat.JenisJerawatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.welcome.WelcomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.splashScreen.SplashScreenActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.main.MainActivity"
+            android:exported="false"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.PimpleDetectKu.NoActionBar" />
+    </application>
+
+</manifest>
